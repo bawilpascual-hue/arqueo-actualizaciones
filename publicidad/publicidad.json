@@ -2,15 +2,15 @@
   "anuncios": [
     {
       "id": "a20261015194759",
-      "titulo": "Tu anuncio aquí",
+      "titulo": "Oferta Especial de Cover",
       "subtitulo": "Escribe lo que quieras anunciar",
       "color1": "#1F6FB2",
       "color2": "#1E9E50",
       "imagen": "",
       "enlace": "",
-      "desde": "",
-      "hasta": "",
-      "activo": false
+      "desde": "2026-10-16",
+      "hasta": "2026-10-31",
+      "activo": true
     }
   ]
 }
