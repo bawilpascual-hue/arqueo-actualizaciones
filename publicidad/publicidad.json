@@ -11,6 +11,18 @@
       "desde": "2026-10-16",
       "hasta": "2026-10-31",
       "activo": true
+    },
+    {
+      "id": "a20261016170410",
+      "titulo": "Hola tatiana",
+      "subtitulo": "Como esta?",
+      "color1": "#1F6FB2",
+      "color2": "#1E9E50",
+      "imagen": "",
+      "enlace": "(809) 601-8375",
+      "desde": "2026-10-16",
+      "hasta": "2026-10-31",
+      "activo": true
     }
   ]
 }
